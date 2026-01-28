@@ -23,7 +23,7 @@ require 'uri'
 
 module Fitgem
   class Client
-    API_VERSION = '1'
+    API_VERSION = '2'
     EMPTY_BODY = ''
 
     # Sets or gets the api_version to be used in API calls
